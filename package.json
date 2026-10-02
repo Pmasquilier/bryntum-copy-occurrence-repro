@@ -1,0 +1,14 @@
+{
+  "name": "bryntum-copy-occurrence-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@bryntum/schedulerpro": "7.3.7"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
